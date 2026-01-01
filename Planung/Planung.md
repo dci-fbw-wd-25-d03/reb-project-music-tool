@@ -14,7 +14,7 @@
 
 ## Lastenheft
 
-> Ein Lastenheft **beschreibt alle Anforderungen**, typischerweise aus Kundensicht.
+> Das Lastenheft **beschreibt alle Anforderungen** des Projekts.
 >
 > <u>Es enthält typischerweise auch eine Priorisierung wie:</u>
 > - Muss (Pflicht)
@@ -22,7 +22,7 @@
 > - Wunsch / Nice‑to‑have
 
 
-### Pflicht
+### Musskriterien (Pflicht)
 - Login
 - Automatischer Login via SessionId
 - Rechteverwaltung
